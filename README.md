@@ -1,1 +1,1 @@
-# react-benchmark
+# React js benchmark
